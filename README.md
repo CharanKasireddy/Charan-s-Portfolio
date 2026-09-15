@@ -1,6 +1,8 @@
 # Charan Kasireddy | Analytics Portfolio
 
-Management Information Systems student at the University of North Carolina at Charlotte (Expected May 2028) pursuing business, data, and operations analytics internships.
+Management Information Systems student at the University of North Carolina at Charlotte (Expected May 2028) pursuing **Summer 2027 business analytics, business intelligence, operations, risk, and finance analytics internships**.
+
+I build traceable analytical workflows that connect data quality, business context, and decision-making. In a recent business-analysis engagement, I digitized and analyzed **1,500+ transaction records** and delivered two purchasing recommendations that management implemented, contributing to a **12% cumulative increase in gross profit over two months**.
 
 ## Featured work
 
@@ -14,7 +16,18 @@ Management Information Systems student at the University of North Carolina at Ch
 
 **SQL · Google BigQuery · Excel · Google Sheets · Tableau · Power BI · Data Validation · Dashboarding · Process Documentation · AI Automation**
 
+## What recruiters can verify here
+
+- Reproducible SQL workflows and documented validation checks
+- Clear business questions, KPI definitions, findings, recommendations, and limitations
+- Analytical work across financial products, customer engagement, and operational triage
+- Decision-focused communication rather than tool-only demonstrations
+
+## Certification
+
+[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/AOTIKH49TNE3) — Google/Coursera, August 2026
+
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/nagasaicharan-kasireddy-39824025a/)
+- [LinkedIn](https://www.linkedin.com/in/nagasaicharankasireddy/)
 - [Email](mailto:charankasireddy2006@gmail.com)
